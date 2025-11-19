@@ -1,0 +1,20 @@
+{
+  "latestVersionCode": 5,
+  "minRequiredVersionCode": 3,
+
+  "dialogId": 1,
+
+  "optionalTitleAr": "يتوفر تحديث جديد لتطبيق القبلة.",
+  "optionalTitleEn": "A new update is available for the Qibla app.",
+
+  "optionalFeaturesAr": "- تحسين دقة تحديد القبلة.\n- تسريع فتح البوصلة.\n- إصلاح بعض الأعطال البسيطة.",
+  "optionalFeaturesEn": "- Improved Qibla accuracy.\n- Faster compass loading.\n- Fixed minor bugs.",
+
+  "forceTitleAr": "هذا الإصدار من التطبيق لم يعد مدعومًا.",
+  "forceTitleEn": "This version of the app is no longer supported.",
+
+  "forceFeaturesAr": "- حل مشكلة خطيرة في حساب اتجاه القبلة.\n- تحسين الاستقرار ومنع الإغلاق المفاجئ.",
+  "forceFeaturesEn": "- Fixed a critical Qibla calculation issue.\n- Improved stability and prevented crashes.",
+
+  "storeUrl": "https://play.google.com/store/apps/details?id=dev.appstime.qibla"
+}

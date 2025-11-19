@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 6,
-  "minRequiredVersionCode": 3,
+  "latestVersionCode": 66,
+  "minRequiredVersionCode": 66,
 
-  "dialogId": 1,
+  "dialogId": 2,
 
   "optionalTitleAr": "يتوفر تحديث جديد لتطبيق القبلة.",
   "optionalTitleEn": "A new update is available for the Qibla app.",
